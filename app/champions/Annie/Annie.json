@@ -1,0 +1,19 @@
+{
+    "name": "Anna",
+    "type": "fire",
+    "spells": [
+        {
+            "name": "nomespell1",
+            "damage": {
+                "type": "magic",
+                "value": 10,
+                "scalings": [
+                    {
+                        "type": "ap",
+                        "value": 25
+                    }
+                ]
+            }
+        }
+    ]
+}
